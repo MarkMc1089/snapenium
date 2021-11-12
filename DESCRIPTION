@@ -16,3 +16,5 @@ Imports:
     RSelenium
 Remotes:
     ropensci/RSelenium#237
+URL: https://github.com/MarkMc1089/snapenium
+BugReports: https://github.com/MarkMc1089/snapenium/issues
